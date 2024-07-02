@@ -1,0 +1,294 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border: border-box; /Included with the content area/ 
+}
+.navbar{
+    height:100px;
+    background-color: white;
+    color: black;
+}
+.nav-logo{
+    height: 70px;
+    width: 300px;
+}
+.logo{
+    background-image: url("social seller logo new.png");
+    background-size: cover;
+    height:60px;
+    width:300px;
+    margin-top: 10px;
+}
+.main{
+    background: linear-gradient(to left, #62cff4 10%, #2c67f2 100%);
+    height: 430px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.leftext{
+    color: black;
+    height: 300px;
+    padding-top: 60px;
+    display: inline-block;
+}
+.video{
+    display: inline-block;
+    height: 300px;
+    padding-top: 70px;
+    padding-left: 50px;
+}
+.money{
+    font-size: larger;
+    height: 45px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10%;
+
+}
+.venue{
+    font-size: larger;
+    height: 45px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10%;
+}
+.reg{
+    font-size: larger;
+    height: 45px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10%;
+}
+.image{
+    height: 50px;
+    width: 30px;
+}
+.bar{
+    display: flex;
+    justify-content: space-around;
+}
+.register{
+    display: flex;
+    justify-content: center;
+    padding-right: 35px;
+}
+.first{
+    background: linear-gradient(to left, #62cff4 10%, #2c67f2 100%);
+    border-radius: 15%;
+    text-shadow: revert;
+    font-size: x-large;
+}
+.next{
+    margin-top:100px;
+}
+.h1{
+    text-align: center;
+    color: rgb(60, 241, 32);
+}
+.icons{
+    background-color: white;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 70px;
+}
+.h2{
+    background-image: url("amazon logo.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+.h3{
+    background-image: url("whatsapp_logo-removebg-preview.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+.h4{
+    background-image: url("Shopify-Logo.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 125px;
+}
+.h5{
+    background-image: url("youtube_logo-removebg-preview.png");
+    background-size: cover;
+    height: 100px;
+    width: 140px;
+}
+.h6{
+    background-image: url("Paytm_logo.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 325px;
+}
+.b1{
+    height: 5px;
+    display: flex;
+    justify-content: center;
+}
+.second{
+    height: 8px;
+    border-radius: 45%;
+    width: 600px;
+    background-color: grey;
+}
+.next2{
+    background: linear-gradient(to left, #62cff4 10%, #2c67f2 100%);
+    height: 200px;
+    display: flex;
+}
+.next3{
+    color: rgb(96, 243, 59);
+    height: 200px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: 900;
+}
+.next4{
+    height: 200px;
+    display: flex;
+}
+.next5,.next6,.next7{
+    color: white;
+    font-size: large;
+    font-weight: 100;
+    padding-top: 30px;
+}
+.testimonials{
+    text-align: center;
+    margin-top: 75px;
+    font-size: x-large;
+    font-weight: 500;
+}
+.people{
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.exp{
+    text-align: center;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+}
+.photo{
+    text-align: centre;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+.end{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.para{
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: larger;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(139, 132, 132);
+}
+.h10{
+    background-image: url("social\ seller\ end.jpg");
+    background-size: cover;
+    height: 525px;
+    margin-top: 50px;
+}
+.h11{
+    background-image: url("ss\ awards.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 750px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.h12{
+    background-image: url("ss\ chats.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.h13{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.h14{
+    display: flex;
+    justify-content: center;
+}
+.q1{
+    text-align: center;
+    font-size: larger;
+    color: rgb(91, 91, 91);
+
+}
+.third{
+    height: 3px;
+    width: 515px;
+    background-color: rgb(139, 132, 132);
+}
+.bo{
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.h20{
+    width: 550px;
+    background-color: lightblue;
+    height: 200px;
+}
+.none{
+    display: flex;
+    justify-content: center;
+}
+.navbar1{
+    height:100px;
+    background-color: white;
+    color: black;
+}
+.nav-logo1{
+    height: 70px;
+    width: 300px;
+}
+.logo1{
+    background-image: url("social_seller_logo_new-removebg-preview\ \(1\).png");
+    background-size: cover;
+    height:60px;
+    width:300px;
+    margin-top: 10px;
+}
+.foot{
+    margin-top: 50px;
+    background-color: rgb(249,249,240);
+}
+.foot1{
+    margin-left: 200px;
+}
+.logon{
+    font-size: x-large;
+}
+.conta{
+    margin-top: 25px;
+}
+.first1{
+    background-color: #FDD017;
+    text-shadow: revert;
+    font-size: x-large;
+    font-weight: 500;
+}
